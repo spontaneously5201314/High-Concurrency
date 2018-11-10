@@ -31,3 +31,5 @@ hs_err_pid*
 .mvn/*
 mvnw.cmd
 mvnw
+target/
+target/*
